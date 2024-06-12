@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id autoScoll
+id clear_log
+id end_log
+id log_scroll
+id log_view
+id loggerFragment
+id start_log
+id start_logs
+id stop
+id timer_display
+layout activity_main
+layout fragment_log
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string start_message
+style Base.Theme.NLPSample
+style Theme.NLPSample
+xml backup_rules
+xml data_extraction_rules
